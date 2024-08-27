@@ -45,7 +45,7 @@
     "sinon": "1.17.2",
     "sinon-chai": "2.8.0",
     "stream-assert-gulp": "0.4.9",
-    "webpack": "1.12.9",
+    "webpack": "5.94.0",
     "yargs": "3.32.0"
   }
 }
