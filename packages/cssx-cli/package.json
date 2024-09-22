@@ -34,7 +34,7 @@
     "gulp-callback": "0.0.3",
     "gulp-cssx": "5.2.1",
     "gulp-plumber": "1.1.0",
-    "minimist": "1.2.0"
+    "minimist": "1.2.6"
   },
   "bin": {
     "cssx": "./index.js"
